@@ -49,6 +49,7 @@ class StudentConstructor implements Courses {
 	private String phone;
 	private String city;
 	private String state;
+	private String cake;
 	private double balance;
 
 	
